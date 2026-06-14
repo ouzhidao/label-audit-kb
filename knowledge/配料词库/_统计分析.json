@@ -1,0 +1,1050 @@
+{
+ "食用盐": {
+  "count": 19,
+  "is_compound": false,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "碱水贝果",
+   "黄油葡萄干司康",
+   "蟹味柳",
+   "低脂鱼蛋",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "白砂糖": {
+  "count": 17,
+  "is_compound": false,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "碱水贝果",
+   "黄油葡萄干司康",
+   "蟹味柳",
+   "低脂鱼蛋",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "鲜酵母": {
+  "count": 13,
+  "is_compound": false,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "碱水贝果"
+  ],
+  "variants": []
+ },
+ "面包用小麦粉": {
+  "count": 13,
+  "is_compound": true,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "碱水贝果",
+   "黄油葡萄干司康"
+  ],
+  "variants": [
+   "小麦"
+  ]
+ },
+ "小麦": {
+  "count": 12,
+  "is_compound": false,
+  "products": [],
+  "variants": []
+ },
+ "谷朊粉": {
+  "count": 12,
+  "is_compound": false,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "碱水贝果"
+  ],
+  "variants": []
+ },
+ "硬脂酰乳酸钙": {
+  "count": 12,
+  "is_compound": false,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "碱水贝果"
+  ],
+  "variants": []
+ },
+ "维生素C)": {
+  "count": 11,
+  "is_compound": false,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "碱水贝果"
+  ],
+  "variants": []
+ },
+ "小麦粉": {
+  "count": 11,
+  "is_compound": false,
+  "products": [
+   "法式焦糖酥",
+   "港式菠萝包",
+   "碱水贝果",
+   "芝士香肠酥",
+   "英式黄油松饼"
+  ],
+  "variants": []
+ },
+ "奶油制品": {
+  "count": 9,
+  "is_compound": true,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "碱水贝果"
+  ],
+  "variants": [
+   "稀奶"
+  ]
+ },
+ "稀奶": {
+  "count": 8,
+  "is_compound": false,
+  "products": [],
+  "variants": []
+ },
+ "奶油": {
+  "count": 8,
+  "is_compound": false,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "港式菠萝包",
+   "碱水贝果",
+   "芝士香肠酥"
+  ],
+  "variants": []
+ },
+ "全脂乳粉": {
+  "count": 9,
+  "is_compound": false,
+  "products": [
+   "岩烧牛乳吐司",
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "碱水贝果",
+   "黄油葡萄干司康"
+  ],
+  "variants": []
+ },
+ "牛生乳)": {
+  "count": 6,
+  "is_compound": false,
+  "products": [
+   "岩烧牛乳吐司",
+   "港式菠萝包",
+   "碱水贝果",
+   "芝士香肠酥",
+   "英式黄油松饼"
+  ],
+  "variants": []
+ },
+ "巴氏杀菌全蛋液": {
+  "count": 6,
+  "is_compound": false,
+  "products": [
+   "法式焦糖酥",
+   "法式经典可颂",
+   "港式菠萝包",
+   "英式黄油松饼",
+   "黄油葡萄干司康"
+  ],
+  "variants": []
+ },
+ "巴氏杀菌蛋黄液": {
+  "count": 4,
+  "is_compound": false,
+  "products": [
+   "港式菠萝包",
+   "英式黄油松饼",
+   "黄油葡萄干司康"
+  ],
+  "variants": []
+ },
+ "碳酸氢": {
+  "count": 3,
+  "is_compound": false,
+  "products": [],
+  "variants": []
+ },
+ "黄油": {
+  "count": 4,
+  "is_compound": false,
+  "products": [
+   "蓝莓芝士贝果",
+   "蔓越莓焦糖面包圈",
+   "黄油葡萄干司康"
+  ],
+  "variants": []
+ },
+ "生乳)": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "法式焦糖酥",
+   "蔓越莓芝士软欧包"
+  ],
+  "variants": []
+ },
+ "芝士": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "芝士香肠酥",
+   "香薰鸡肉芝士软欧包"
+  ],
+  "variants": []
+ },
+ "复配膨松剂": {
+  "count": 3,
+  "is_compound": true,
+  "products": [
+   "英式黄油松饼",
+   "黄油葡萄干司康"
+  ],
+  "variants": [
+   "磷酸二氢",
+   "碳酸氢"
+  ]
+ },
+ "碳酸钙)": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "英式黄油松饼",
+   "黄油葡萄干司康"
+  ],
+  "variants": []
+ },
+ "复配酸度调节剂": {
+  "count": 3,
+  "is_compound": true,
+  "products": [
+   "英式黄油松饼",
+   "黄油葡萄干司康"
+  ],
+  "variants": [
+   "碳酸氢"
+  ]
+ },
+ "碳酸钠)": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "英式黄油松饼",
+   "黄油葡萄干司康"
+  ],
+  "variants": []
+ },
+ "蔓越莓干": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "蔓越莓芝士软欧包",
+   "蔓越莓焦糖面包圈"
+  ],
+  "variants": []
+ },
+ "胭脂虫红": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": []
+ },
+ "复配面包乳化酶制剂": {
+  "count": 2,
+  "is_compound": true,
+  "products": [
+   "蓝莓芝士贝果",
+   "蔓越莓焦糖面包圈"
+  ],
+  "variants": [
+   ""
+  ]
+ },
+ "硬脂酰乳酸钠": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "蓝莓芝士贝果",
+   "黄油葡萄干司康"
+  ],
+  "variants": []
+ },
+ "再制干酪": {
+  "count": 2,
+  "is_compound": true,
+  "products": [
+   "岩烧牛乳吐司",
+   "日式芝心竹轮"
+  ],
+  "variants": [
+   "含β-胡萝卜素"
+  ]
+ },
+ "含β-胡萝卜素": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "扁桃仁片": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "法式焦糖酥"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "食品用香精": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "港式菠萝包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "香肠": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "芝士香肠酥"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "红葡萄干": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "英式黄油松饼"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "磷酸二氢": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "复配着色剂": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "蔓越莓芝士软欧包"
+  ],
+  "variants": [
+   "胭脂虫红"
+  ],
+  "status": "confirmed"
+ },
+ "烟熏鸡肉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "香薰鸡肉芝士软欧包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "黑胡椒碎": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "香薰鸡肉芝士软欧包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "黑全麦粉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "干酪粉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "橄榄油": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "菠菜粉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "椒盐": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [
+   "食用"
+  ],
+  "status": "confirmed"
+ },
+ "食用": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "花椒粉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "麦芽糊精": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "小茴香粉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "味精": {
+  "count": 4,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包",
+   "蟹味柳",
+   "低脂鱼蛋",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "橘皮粉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "二氧化硅)": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "香辛料": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "麦芽提取物": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [
+   "大麦麦"
+  ],
+  "status": "confirmed"
+ },
+ "大麦麦": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "水)": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "万圣尖叫意式香料面包"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "奶油干酪": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": [
+   "未成熟干酪≥14.2%"
+  ],
+  "status": "confirmed"
+ },
+ "未成熟干酪≥14.2%": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "蓝莓颗粒果酱": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": [
+   "≥3.5%"
+  ],
+  "status": "confirmed"
+ },
+ "≥3.5%": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "蓝莓果脯": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": [
+   "≥2.7%"
+  ],
+  "status": "confirmed"
+ },
+ "≥2.7%": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "蓝莓粉": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": [
+   "≥2.3%"
+  ],
+  "status": "confirmed"
+ },
+ "≥2.3%": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "蜂蜜": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "双甘油脂肪酸酯": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "抗坏血酸": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "大豆粉)": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "甜菜红": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "蓝莓芝士贝果",
+   "蟹味柳"
+  ],
+  "variants": []
+ },
+ "高粱红": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蓝莓芝士贝果"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "饮用水": {
+  "count": 4,
+  "is_compound": false,
+  "products": [
+   "全麦贝果",
+   "蟹味柳",
+   "低脂鱼蛋",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "全麦粉": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "全麦贝果"
+  ],
+  "variants": [
+   "≥30%"
+  ],
+  "status": "confirmed"
+ },
+ "≥30%": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "培根": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "培根葱香贝果"
+  ],
+  "variants": [
+   "≥11%"
+  ],
+  "status": "confirmed"
+ },
+ "≥11%": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "冷冻青葱片": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "培根葱香贝果"
+  ],
+  "variants": [
+   "≥5%"
+  ],
+  "status": "confirmed"
+ },
+ "≥5%": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "再制奶酪": {
+  "count": 1,
+  "is_compound": true,
+  "products": [
+   "培根葱香贝果"
+  ],
+  "variants": [
+   "奶酪丁"
+  ],
+  "status": "confirmed"
+ },
+ "奶酪丁": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "抗坏血酸)": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "黄油葡萄干司康"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "葡萄干": {
+  "count": 2,
+  "is_compound": true,
+  "products": [
+   "黄油葡萄干司康"
+  ],
+  "variants": [
+   "葡萄"
+  ]
+ },
+ "葡萄": {
+  "count": 1,
+  "is_compound": false,
+  "products": [],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "植物油)": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "黄油葡萄干司康"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "调配白兰地": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "黄油葡萄干司康"
+  ],
+  "variants": []
+ },
+ "焦磷酸二氢二钠": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "黄油葡萄干司康"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "磷酸二氢钙": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "黄油葡萄干司康"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "水": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "黄油葡萄干司康"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "冷冻鱼糜": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "蟹味柳",
+   "低脂鱼蛋"
+  ],
+  "variants": []
+ },
+ "醋酸酯淀粉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蟹味柳"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "羟丙基二淀粉磷酸酯": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蟹味柳"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "海蟹肉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蟹味柳"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "乙酰化二淀粉磷酸酯": {
+  "count": 3,
+  "is_compound": false,
+  "products": [
+   "蟹味柳",
+   "低脂鱼蛋",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "本味啉调味料": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "蟹味柳",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "海藻糖": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蟹味柳"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "大豆油": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "蟹味柳",
+   "低脂鱼蛋"
+  ],
+  "variants": []
+ },
+ "食品用香精香料": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蟹味柳"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "鸡蛋白粉": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "蟹味柳",
+   "低脂鱼蛋"
+  ],
+  "variants": []
+ },
+ "醋味复合调味料": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蟹味柳"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "六偏磷酸钠": {
+  "count": 3,
+  "is_compound": false,
+  "products": [
+   "蟹味柳",
+   "低脂鱼蛋",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "焦磷酸钠": {
+  "count": 3,
+  "is_compound": false,
+  "products": [
+   "蟹味柳",
+   "低脂鱼蛋",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "乳酸链球菌素": {
+  "count": 3,
+  "is_compound": false,
+  "products": [
+   "蟹味柳",
+   "低脂鱼蛋",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "D-异抗坏血酸钠": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蟹味柳"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "辣椒红": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "蟹味柳"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "食用葡萄糖": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "低脂鱼蛋"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "脱脂乳粉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "低脂鱼蛋"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "复合调味料": {
+  "count": 2,
+  "is_compound": false,
+  "products": [
+   "低脂鱼蛋",
+   "日式芝心竹轮"
+  ],
+  "variants": []
+ },
+ "食用香精香料": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "低脂鱼蛋"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "卡拉胶": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "低脂鱼蛋"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "冷冻狭鳕鱼糜": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "日式芝心竹轮"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "冷冻鸡蛋白液": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "日式芝心竹轮"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "马铃薯淀粉": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "日式芝心竹轮"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ },
+ "植物油": {
+  "count": 1,
+  "is_compound": false,
+  "products": [
+   "日式芝心竹轮"
+  ],
+  "variants": [],
+  "status": "confirmed"
+ }
+}
