@@ -1,7 +1,7 @@
 # CLAUDE.md — 标签审核工厂（项目级）
 
-> 项目路径：F:/AI软件/CY的知识库/标签审核/
-> 技能文件：C:/Users/34009/.claude/skills/标签审核工厂/SKILL.md
+> 项目双仓库：label-audit-kb（同事分发） + claude-code-skills（SKILL源）
+> 技能文件：knowledge/SKILL.md
 
 ## 项目核心数字
 
@@ -16,7 +16,6 @@
 | 供应商标签库 | 1家（泰州贝特尔）+ 新入库（阿哩香等） |
 | 原料预审 | 5步轻量检查（成品审核前置） |
 | DWT营养基线 | 47样本 |
-| 供应商标签库 | 1家（泰州贝特尔）|
 | 营养声称阈值 | 10项（GB 28050-2025）|
 | 条码厂商码 | 4家全部确认 |
 
@@ -119,8 +118,8 @@
 
 | # | API Key | Secret Key | 状态 | 日配额 | 月配额 |
 |:--:|------|------|:--:|:--:|:--:|
-| A | `j1pCZEMPStWNACq4DKovPHwq` | `7IiybJQ08aLngzpaS6kgk4D1uL297vjA` | 🟢 主用 | 500 | 1000(免费) |
-| B | `l1U4rCGiMRQm6TC0zJXjxgLQ` | `XPMWUVBy86jKvuSOR7mlnQEW9aWJjCGg` | 🟢 备用 | 500 | 1000(免费) |
+| A | `j1pCZ...vPHwq` | `7IiybJ...7vjA` | 🟢 主用 | 500 | 1000(免费) |
+| B | `l1U4r...jxgLQ` | `XPMWU...jCGg` | 🟢 备用 | 500 | 1000(免费) |
 
 > 账户 B 由用户申请后填入。两个账户独立配额，轮流使用。
 

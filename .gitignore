@@ -1,3 +1,8 @@
 .obsidian/
 __pycache__/
 *.pyc
+ocr_temp.txt
+*.jpg
+_统计报告.md
+.env
+test_bc.jpg

@@ -79,49 +79,48 @@ def top_issues(products):
 def generate_report(products):
     lines = []
     lines.append('# 标签审核统计报表')
-    lines.append(f'
-> 生成时间：{datetime.now().strftime("%Y-%m-%d %H:%M")}')
+    lines.append('')
+    lines.append(f'> 生成时间：{datetime.now().strftime("%Y-%m-%d %H:%M")}')
     lines.append(f'> 总审核数：{len(products)} 次')
-    
+
     total_issues = sum(p['issues_found'] for p in products)
     lines.append(f'> 问题总数：{total_issues} 个')
-    
+
     # By factory
     factories = stats_by_factory(products)
-    lines.append('
-## 按工厂统计')
-    lines.append('
-| 工厂 | 审核数 | 有问题 | 问题率 | 高频问题 |')
+    lines.append('')
+    lines.append('## 按工厂统计')
+    lines.append('')
+    lines.append('| 工厂 | 审核数 | 有问题 | 问题率 | 高频问题 |')
     lines.append('|------|:--:|:--:|:--:|------|')
     for f, d in sorted(factories.items()):
         rate = f"{d['with_issues']/d['total']*100:.0f}%" if d['total'] > 0 else '-'
         top = ', '.join([f"{k}({v})" for k, v in d['issues'].most_common(3)])
         lines.append(f"| {f} | {d['total']} | {d['with_issues']} | {rate} | {top or '-'} |")
-    
+
     # By month
     months = stats_by_period(products)
-    lines.append('
-## 按月份趋势')
-    lines.append('
-| 月份 | 审核数 | 有问题 | 问题率 |')
+    lines.append('')
+    lines.append('## 按月份趋势')
+    lines.append('')
+    lines.append('| 月份 | 审核数 | 有问题 | 问题率 |')
     lines.append('|------|:--:|:--:|:--:|')
     for m, d in months.items():
         rate = f"{d['with_issues']/d['total']*100:.0f}%" if d['total'] > 0 else '-'
         lines.append(f"| {m} | {d['total']} | {d['with_issues']} | {rate} |")
-    
+
     # Top issues
     top = top_issues(products)
     if top:
-        lines.append('
-## 高频问题 TOP10')
-        lines.append('
-| 问题 | 次数 |')
+        lines.append('')
+        lines.append('## 高频问题 TOP10')
+        lines.append('')
+        lines.append('| 问题 | 次数 |')
         lines.append('|------|:--:|')
         for issue, count in top:
             lines.append(f"| {issue} | {count} |")
-    
-    return '
-'.join(lines)
+
+    return '\n'.join(lines)
 
 if __name__ == '__main__':
     products = load_data()
@@ -138,5 +137,5 @@ if __name__ == '__main__':
     out = os.path.join(BASE, '_统计报告.md')
     with open(out, 'w', encoding='utf-8') as f:
         f.write(report)
-    print(f'
-报表已保存: {out}')
+    print('')
+    print(f'报表已保存: {out}')
