@@ -1,5 +1,6 @@
 # CLAUDE.md — 标签审核工厂（项目级）
 
+> 审核法规版本：GB 7718-2025 / GB 28050-2025 / GB 2760-2024（强制执行规则#0）
 > 项目双仓库：label-audit-kb（同事分发） + claude-code-skills（SKILL源）
 > 技能文件：knowledge/SKILL.md
 
